@@ -9,7 +9,7 @@
     "buildCopy": "npx webpack --config webpack.prod.js"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
